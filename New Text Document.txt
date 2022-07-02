@@ -1,0 +1,4 @@
+pyinstaller --onefile -w tkinter_exe.py
+
+
+
